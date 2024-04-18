@@ -26,7 +26,6 @@ VS Code (https://code.visualstudio.com/download)
 
 Node js (version v18.17.1)  (https://nodejs.org/en/download/current)
 
-MongoDatabase (v6.0.7) ( https://www.mongodb.com/try/download/community)
 
 **Installation Guide:**
 
