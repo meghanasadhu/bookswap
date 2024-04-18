@@ -22,6 +22,14 @@ BookSwap is built using the MERN stack, which comprises MongoDB, Express.js, Rea
 
 **Prerequisites**
 
+VS Code (https://code.visualstudio.com/download)
+
+Node js (version v18.17.1)  (https://nodejs.org/en/download/current)
+
+MongoDatabase (v6.0.7) ( https://www.mongodb.com/try/download/community)
+
+**Installation Guide:**
+
 **1. Adding Code to Visual Studio Code**
 
 Configure all the code files in Visual Studio Code by clicking on open folder.
@@ -96,17 +104,27 @@ Navigate to FrontEnd and Backend directory and install dependencies
                         
 			 cd /FrontEnd  
                          
-			 npm install
-                         
+			 npm i lucide-react
+    
+                     npm i
+
+                     npm run dev
+
+Navigate to Backend directory
+
 			 cd ..
                          
 			 cd /BackEnd
-                         
-			 npm install
 
-Navigate back to FrontEnd and run in both 
+                     sudo npm install -g nodemon
                          
-			 npm run dev
+			 npm i
+
+                     npm run dev
+
+By running this commands we can connect to server and we can see our application interface, for doing that click on local host link which we will get after running commands in FrontEnd folder.
+
+For logging in we will get a OTP for viewing OTP go to terminal where you have run all the commands for connecting to server, we can see all the otp’s generated there.
 
 
 **6. Running application in local host:**
