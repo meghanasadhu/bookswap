@@ -3,6 +3,7 @@
 **Introduction**
 
 **What is BookSwap?**
+
 BookSwap is an online marketplace where any college student can list their books so that juniors can buy those books at a much cheaper price.
 BookSwap ensures fair prices, promotes sustainability, and fosters a collaborative learning environment.
 BookSwap aims at removing the middlemen involved in selling second-hand books
