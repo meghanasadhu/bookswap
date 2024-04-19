@@ -1,8 +1,8 @@
-# BookSwap: An Online Marketplace for College Students
+= BookSwap: An Online Marketplace for College Students
 
-## Introduction
+== Introduction
 
-### What is BookSwap?
+=== What is BookSwap?
 
 BookSwap is an online marketplace where any college student can list their books so that juniors can buy those books at a much cheaper price.
 BookSwap ensures fair prices, promotes sustainability, and fosters a collaborative learning environment.
@@ -11,7 +11,7 @@ BookSwap aims at removing the middlemen involved in selling second-hand books
 <img width="610" alt="Screenshot 2024-04-17 at 6 10 41 PM" src="https://github.com/meghanasadhu/bookswap/assets/158526030/1449db3a-181e-4fa5-87e0-a7507962b69b">
  
 
-### Architecture
+== Architecture
 BookSwap is built using the MERN stack, which comprises MongoDB, Express.js, React, and Node.js. Additionally, it leverages real-time Firebase for storing images, providing a seamless and responsive user experience.
 
 
