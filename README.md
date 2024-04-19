@@ -1,4 +1,7 @@
-= BookSwap: An Online Marketplace for College Students
+= BookSwap: An Online Marketplace for College Students  
+:toc:
+:toc-placement: preamble
+:toclevels: 2
 
 == Introduction
 
