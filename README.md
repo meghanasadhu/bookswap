@@ -1,8 +1,8 @@
 # BookSwap: An Online Marketplace for College Students  
 
 ## Table of Contents  
-[Introduction](#introduction)  
-- [What is BookSwap?](#what-is-bookswap?)  
+- [Introduction](#introduction)  
+* [What is BookSwap?](#what-is-bookswap?)  
 [Architecture](#architecture)    
 [BookSwap Installation](#bookswap-installation)  
 [BookSwap Usage](#bookswap-usage)  
