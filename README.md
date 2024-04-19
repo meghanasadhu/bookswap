@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 [Introduction](#introduction)  
-[What is BookSwap?](#what-is-bookswap?)
+- [What is BookSwap?](#what-is-bookswap?)  
 [Architecture](#architecture)    
 [BookSwap Installation](#bookswap-installation)  
 [BookSwap Usage](#bookswap-usage)  
