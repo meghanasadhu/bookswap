@@ -2,6 +2,7 @@
 
 ## Table of Contents  
 [Introduction](#introduction)  
+[[test]](#test)
 [Architecture](#architecture)    
 [BookSwap Installation](#bookswap-installation)  
 [BookSwap Usage](#bookswap-usage)  
