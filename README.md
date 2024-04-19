@@ -137,7 +137,7 @@ Navigate to Backend directory
 
 			 cd ..
                          
-			 cd /BackEnd
+			 cd Bookswap/BackEnd
 
                      sudo npm install -g nodemon
                          
