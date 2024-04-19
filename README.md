@@ -86,6 +86,8 @@ Copy the URL.
 
 Now go to your code and navigate to Backend folder and edit .env file if not present create one and add the MONGODB_URI which we generated earlier.
 
+Click on API keys from left pane and create an API key by giving name and full access and Domain should be all domain.
+
 #### 3. Adding Resend API:
 
 Navigate to this URL: https://resend.com/docs/send-with-nextjs#4-try-it-yourself
@@ -125,7 +127,7 @@ Navigate to FrontEnd and Backend directory and install dependencies
                         
 			 cd /FrontEnd  
                          
-			 npm i lucide-react
+			 npm install lucide-react
     
                      npm i
 
