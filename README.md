@@ -33,7 +33,7 @@ React js: Renders the view and loads the data received from the API.
 
 Firebase Storage: Stores all the images.
 
-### BookSwap Installation:
+## BookSwap Installation:
 
 #### Prerequisites
 
@@ -155,7 +155,7 @@ Navigate to Frontend in VS code
 
 This will open our website page.
 
-#### BookSwap Usage
+## BookSwap Usage
 
 BookSwap provides users with an easy connection for buyers and sellers:
 
@@ -171,7 +171,7 @@ Students can chat with fellow students/seniors.
 
 BookSwap simplifies the book exchange process by creating a community where students can save money by purchasing used books and earn extra money by selling books.
 
-#### Conclusion
+## Conclusion
 
 BookSwap is changing the way college students acquire and exchange textbooks by providing users with an online marketplace. Focusing on affordability and convenience, BookSwap is designed to give students control over the cost of their education while fostering a sense of community in the learning environment.
 
