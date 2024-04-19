@@ -17,6 +17,13 @@ BookSwap is built using the MERN stack, which comprises MongoDB, Express.js, Rea
 
 <img width="452" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/02ec1e1f-fce6-4c23-b6a2-01230068e6cb">
 
+MongoDB: Stores all the data of Bookswap.
+
+Express js & Node js: Acts as middle men and provides data through API.
+
+React js: Renders the view and loads the data received from the API.
+
+Firebase Storage: Stores all the images.
 
 ### BookSwap Installation:
 
@@ -25,6 +32,10 @@ BookSwap is built using the MERN stack, which comprises MongoDB, Express.js, Rea
 VS Code (https://code.visualstudio.com/download)
 
 Node js (version v18.17.1)  (https://nodejs.org/en/download/current)
+
+MERN stack development environment setup.
+
+Firebase account for storing images.
 
 
 #### Installation Guide:
