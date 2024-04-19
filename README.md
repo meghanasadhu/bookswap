@@ -140,9 +140,15 @@ This will open our website page.
 
 BookSwap provides users with an easy connection for buyers and sellers:
 
-●	_Sellers_: College students can easily list books for sale by providing details such as title, author, condition, and price.
+- _Sellers_: College students can easily list books for sale by providing details such as title, author, condition, and price.
 
-●	_Buyers_: Young people looking for educational materials can review the list, view the content of the book and purchase it directly from the platform.
+- _Buyers_: Young people looking for educational materials can review the list, view the content of the book and purchase it directly from the platform.
+
+Students can login to the site and can use add to wishlist section to wishlist the products.
+
+Students can add a product.
+
+Students can chat with fellow students/seniors.
 
 BookSwap simplifies the book exchange process by creating a community where students can save money by purchasing used books and earn extra money by selling books.
 
