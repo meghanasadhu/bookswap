@@ -3,6 +3,10 @@
 :toc-placement: preamble
 :toclevels: 2
 
+// Need some preamble to get TOC:
+{empty}
+
+
 == Introduction
 
 === What is BookSwap?
