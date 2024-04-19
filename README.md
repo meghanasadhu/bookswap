@@ -3,10 +3,12 @@
 ## Table of Contents  
 - [Introduction](#introduction)  
   * [What is BookSwap?](#what-is-bookswap?)  
-[Architecture](#architecture)    
-[BookSwap Installation](#bookswap-installation)  
-[BookSwap Usage](#bookswap-usage)  
-[Conclusion](#conclusion)  
+- [Architecture](#architecture)     
+- [BookSwap Installation](#bookswap-installation)
+  * [Prerequisites](#prerequisites)
+  * [Installation Guide](#installation-guide)
+- [BookSwap Usage](#bookswap-usage)  
+- [Conclusion](#conclusion)  
 
 
 ## Introduction
