@@ -19,7 +19,7 @@ BookSwap aims at removing the middlemen involved in selling second-hand books
 <img width="610" alt="Screenshot 2024-04-17 at 6 10 41 PM" src="https://github.com/meghanasadhu/bookswap/assets/158526030/1449db3a-181e-4fa5-87e0-a7507962b69b">
  
 
-### Architecture
+## Architecture
 BookSwap is built using the MERN stack, which comprises MongoDB, Express.js, React, and Node.js. Additionally, it leverages real-time Firebase for storing images, providing a seamless and responsive user experience.
 
 
@@ -35,7 +35,7 @@ Firebase Storage: Stores all the images.
 
 ## BookSwap Installation:
 
-#### Prerequisites
+### Prerequisites
 
 VS Code (https://code.visualstudio.com/download)
 
@@ -46,13 +46,13 @@ MERN stack development environment setup.
 Firebase account for storing images.
 
 
-#### Installation Guide:
+### Installation Guide:
 
-##### 1. Adding Code to Visual Studio Code
+#### 1. Adding Code to Visual Studio Code
 
 Configure all the code files in Visual Studio Code by clicking on open folder.
 
-##### 2. MONGO DB Server creation
+#### 2. MONGO DB Server creation
 
 Go to this link and login or sign up
 https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F65ee312fcb938647babc052c&nextHash=%23metrics%2FreplicaSet%2F65ee315c2b40605562d9b0f4%2Fexplorer%2Ftest%2Fmessages%2Ffind&signedOut=true
@@ -83,7 +83,7 @@ Copy the URL.
 
 Now go to your code and navigate to Backend folder and edit .env file if not present create one and add the MONGODB_URI which we generated earlier.
 
-##### 3. Adding Resend API:
+#### 3. Adding Resend API:
 
 Navigate to this URL: https://resend.com/docs/send-with-nextjs#4-try-it-yourself
 
@@ -93,7 +93,7 @@ Click on API Keys and create an API key.
 
 Paste the API key in .env file in Backend folder
 
-##### 4. Adding Firebase Storage
+#### 4. Adding Firebase Storage
 
 Navigate to https://console.firebase.google.com/u/0/
 
@@ -108,7 +108,7 @@ Now click on Add App.
 Click on 3rd option named Web.
 Then navigate to Frontend folder of your code then go to src -> components -> config -> FirebaseConfig.js change the configuration.
 
-##### 5. Deployment guide
+#### 5. Deployment guide
 
 Clone the git repository 
                          
@@ -145,7 +145,7 @@ By running this commands we can connect to server and we can see our application
 For logging in we will get a OTP for viewing OTP go to terminal where you have run all the commands for connecting to server, we can see all the otp’s generated there.
 
 
-##### 6. Running application in local host:
+#### 6. Running application in local host:
 
 Navigate to Frontend in VS code
                         
