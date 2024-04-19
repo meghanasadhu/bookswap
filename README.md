@@ -141,9 +141,9 @@ For logging in we will get a OTP for viewing OTP go to terminal where you have r
 
 Navigate to Frontend in VS code
                         
-			npm run dev
+			  npm run dev
                       
-		        o + (click enter) 
+		          o + (click enter) 
 
 This will open our website page.
 
